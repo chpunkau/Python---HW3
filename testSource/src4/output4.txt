@@ -1,0 +1,12 @@
+Container is store 5 shapes:
+Aphorism : It's Aphorism... Number - 3
+6.75
+Word : It's Hint. Number of counter - 2
+16.0
+Hint : It's Word... '' Number - - 5
+5.6
+Word : It's Hint//.
+4.0
+Hint : It;s Hint ;;,,..
+2.2857142857142856
+Summa of Function  = 17.317857142857143
